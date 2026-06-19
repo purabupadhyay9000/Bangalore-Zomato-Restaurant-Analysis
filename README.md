@@ -150,13 +150,7 @@ This project demonstrates the complete workflow of a Data Analyst:
 - Dashboard Design
 - Business Reporting
 
----
 
-## 📷 Dashboard Preview
-
-> Add your Power BI dashboard screenshot here.
-
----
 
 ## 👨‍💻 Author
 
